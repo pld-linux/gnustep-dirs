@@ -5,7 +5,6 @@ Version:	1.0
 Release:	1
 License:	free
 Group:		Base
-BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
