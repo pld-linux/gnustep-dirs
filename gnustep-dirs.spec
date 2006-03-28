@@ -2,7 +2,7 @@ Summary:	Common dirs for GNUstep enviroment
 Summary(pl):	Katalogi wspólne dla ¶rodowiska GNUstep
 Name:		gnustep-dirs
 Version:	1.0
-Release:	1
+Release:	2
 License:	free
 Group:		Base
 Requires:	FHS
