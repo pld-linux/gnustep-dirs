@@ -1,5 +1,5 @@
 Summary:	Common dirs for GNUstep enviroment
-Summary(pl):	Katalogi wspólne dla ¶rodowiska GNUstep
+Summary(pl.UTF-8):   Katalogi wspÃ³lne dla Å›rodowiska GNUstep
 Name:		gnustep-dirs
 Version:	1.0
 Release:	2
@@ -11,8 +11,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Common dirs for GNUstep enviroment.
 
-%description -l pl
-Katalogi wspólne dla ¶rodowiska GNUstep.
+%description -l pl.UTF-8
+Katalogi wspÃ³lne dla Å›rodowiska GNUstep.
 
 %prep
 
