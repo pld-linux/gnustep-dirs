@@ -1,5 +1,5 @@
 Summary:	Common dirs for GNUstep enviroment
-Summary(pl.UTF-8):   Katalogi wspólne dla środowiska GNUstep
+Summary(pl.UTF-8):	Katalogi wspólne dla środowiska GNUstep
 Name:		gnustep-dirs
 Version:	1.0
 Release:	2
