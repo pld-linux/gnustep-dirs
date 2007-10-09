@@ -1,4 +1,4 @@
-Summary:	Common dirs for GNUstep enviroment
+Summary:	Common dirs for GNUstep environment
 Summary(pl.UTF-8):	Katalogi wspólne dla środowiska GNUstep
 Name:		gnustep-dirs
 Version:	1.0
@@ -9,7 +9,7 @@ Requires:	FHS
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
-Common dirs for GNUstep enviroment.
+Common dirs for GNUstep environment.
 
 %description -l pl.UTF-8
 Katalogi wspólne dla środowiska GNUstep.
